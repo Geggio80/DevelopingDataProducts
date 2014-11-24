@@ -1,7 +1,7 @@
 BP, GC and PCA
 ===
 author: Eugenio Del Prete
-date: nov 19 2014
+date: nov 24 2014
 transition: zoom
 font-family: 'calibri'
 
@@ -58,13 +58,16 @@ If you are asking yourself:
 - And the code is available?*
 - Can I make it with another dataset?
 
-Well, I leave you with this [link][app], hoping that this app could be **simply**, **pretty** and **useful**!
+Well, I leave you with this [link][app], hoping that this app could be **simple**, **pretty** and **useful**!
 
-<small>*_Code chunks have the attribute `echo=FALSE`._</small>
-
-<br></br>
 <font color='red'>
-<small> All the work has been performed with R, RStudio and RStudio Presenter. </small>
+All the work has been performed with R, RStudio and RStudio Presenter.
 </font>
 
+<small>*_Code chunks have the attribute `echo=FALSE`._</small>
+<small> _Embedded code is available at:_</small>
+<small> _https://github.com/Geggio80/DevelopingDataProducts_</small>
+
+
 [app]:https://geggio80.shinyapps.io/Exercise/
+
